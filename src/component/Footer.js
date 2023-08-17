@@ -2,7 +2,7 @@ import instagram from "../photo/insta.png"
 import facebook from "../photo/fac.png"
 import telegram from "../photo/tele.webp"
 
-function Footer( props) {
+function Footer() {
  
   
   return (
